@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/OnePlus7Pro/MP/OnePlus7ProHydrogen_21.H.40_OTA_0400_all_2108161840_6f0f17c3fbe246f5.zip
+  ROM_URL: https://oxygenos.oneplus.net/OnePlus7ProOxygen_21.P.41_OTA_0410_all_2112101753_be67679cd2414a34.zip
   TZ: Asia/Shanghai
 
 jobs:
